@@ -1,0 +1,14 @@
+
+uv venv venv_trabalho --python 3.11.9
+
+venv_trabalho\Scripts\Activate.ps1 
+ou
+venv_trabalho\Scripts\Activate.bat 
+
+uv pip install cmake
+
+uv pip install wheel
+
+uv pip install Pillow torch torchvision matplotlib opencv-python opencv-contrib-python scipy scikit-learn scikit-image timm jupyter ipython tqdm
+
+uv pip install ultralitics

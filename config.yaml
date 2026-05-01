@@ -1,0 +1,9 @@
+path: C:/Users/quimi/OneDrive/Documents/Pos/MBA IA-Desktop/Visao Computacional/trabalho_pratico/dataset
+train: train/images
+val: val/images
+test: test/images
+
+# nome das suas classes
+names:
+  0: Pistola
+  1: Fuzil

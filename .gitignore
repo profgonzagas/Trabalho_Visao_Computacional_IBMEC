@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv_trabalho/
+.venv/
+env/
+
+# YOLO runs / weights
+runs/
+*.pt
+*.onnx
+*.torchscript
+
+# Dataset (large files)
+dataset/
+
+# Output / video
+output/
+video/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# YOLO runtime binaries
+Yolo/
+
+# Editor
+.vscode/
+*.swp
+*.md
+*.doc
+*.docx
+*.zip
